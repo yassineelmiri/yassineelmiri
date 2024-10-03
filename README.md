@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/yassine_elmiri" target="blank"><img src="https://img.shields.io/twitter/follow/yassine_elmiri?logo=twitter&style=for-the-badge" alt="yassine_elmiri" /></a> </p>
 
-- 🌱 I’m currently learning **I-A-V**
-
-- 💬 Ask me about **Dev-web**
-
 - 📫 How to reach me **miriyassine123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -30,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassineelmiri&show_icons=true&locale=en" alt="yassineelmiri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassineelmiri&" alt="yassineelmiri" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zinebMachrouh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
